@@ -95,4 +95,11 @@ public class SetupActivity extends Activity implements OnMapReadyCallback {
         mMap.clear();
         marker = false;
     }
+
+    @Override
+    protected void onDestroy(){
+        super.onDestroy();
+        setResult(1);
+        finish();
+    }
 }

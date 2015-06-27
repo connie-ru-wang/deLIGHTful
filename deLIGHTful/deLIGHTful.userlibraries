@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="google-play-services">
+    <archive path="C:/Users/snehas.NA/AppData/Local/Android/sdk/extras/google/google_play_services/libproject/google-play-services_lib/libs/google-play-services.jar" />
+  </library>
+</eclipse-userlibraries>
+
