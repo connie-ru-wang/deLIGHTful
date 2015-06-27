@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Traffic Monitoring App"
+            android:textSize="30sp"
+            />
+    <Button
+
+            android:layout_marginTop="10dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Setup"
+            android:onClick="startSetup"
+            />
+
+    <Button android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Start Monitoring"
+            android:onClick="startMonitoring"/>
+
+    <Button android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Stop Monitoring"
+            android:onClick="stopMonitoring"/>
+
+
+</LinearLayout>
