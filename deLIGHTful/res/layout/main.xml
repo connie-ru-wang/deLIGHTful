@@ -17,17 +17,18 @@
             android:layout_height="wrap_content"
             android:text="Setup"
             android:onClick="startSetup"
+            android:id="@+id/setup"
             />
 
     <Button android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="Start Monitoring"
-            android:onClick="startMonitoring"/>
+            />
 
     <Button android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:text="Stop Monitoring"
-            android:onClick="stopMonitoring"/>
+            />
 
 
 </LinearLayout>
