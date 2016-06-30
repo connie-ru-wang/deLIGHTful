@@ -1,5 +1,7 @@
 # deLIGHTful
-Save time when commuting with this helpful traffic monitoring app. 
+Save time when commuting with this helpful traffic monitoring app. <br />
 
-Contributors:
-Server manager: Connie Wang; Android App Developer: Sneha Shrotriya; Alljoyn IoT Wi-Fi Light Integration: Quinn Lertratanakul and Annie Cheng
+Contributors:<br />
+Server manager: Connie Wang<br />
+Android App Developer: Sneha Shrotriya<br />
+Alljoyn IoT Wi-Fi Light Integration: Quinn Lertratanakul and Annie Cheng
